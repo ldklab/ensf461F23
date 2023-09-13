@@ -1,0 +1,3 @@
+cat,meow,pet
+dog,bark,pet
+lion,roar,wild
